@@ -55,7 +55,7 @@ import androidx.compose.ui.unit.sp
 fun FoodScreen(cartItems: MutableList<FoodItem>) {
     val foods = listOf(
         FoodItem(
-            "Yum Burger",
+            "Yum Burgers",
             120,
             "Burger",
             "Juicy beef patty with fresh lettuce, tomato, and special sauce"
