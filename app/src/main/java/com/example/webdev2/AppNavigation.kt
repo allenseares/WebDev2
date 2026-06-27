@@ -37,7 +37,7 @@ data class FoodItem(
     val name: String,
     val price: Int,
     val category: String,
-    val description: String = ""git add README.mdv
+    val description: String = ""
 )
 
 sealed class Screen(val route: String) {
